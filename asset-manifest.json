@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/smmana/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/smmana/static/js/main.def603f1.chunk.js",
+    "main.js.map": "/smmana/static/js/main.def603f1.chunk.js.map",
+    "runtime-main.js": "/smmana/static/js/runtime-main.5a1d5ccf.js",
+    "runtime-main.js.map": "/smmana/static/js/runtime-main.5a1d5ccf.js.map",
+    "static/js/2.c1efb884.chunk.js": "/smmana/static/js/2.c1efb884.chunk.js",
+    "static/js/2.c1efb884.chunk.js.map": "/smmana/static/js/2.c1efb884.chunk.js.map",
+    "static/js/3.fb42e1c9.chunk.js": "/smmana/static/js/3.fb42e1c9.chunk.js",
+    "static/js/3.fb42e1c9.chunk.js.map": "/smmana/static/js/3.fb42e1c9.chunk.js.map",
+    "index.html": "/smmana/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/smmana/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.c1efb884.chunk.js.LICENSE.txt": "/smmana/static/js/2.c1efb884.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/smmana/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a1d5ccf.js",
+    "static/js/2.c1efb884.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.def603f1.chunk.js"
+  ]
+}
